@@ -10,4 +10,4 @@ metadata:
   name: mysql-server
 spec:
   type: ExternalName
-  externalName: petclinic.ca06xcs734ge.us-east-1.rds.amazonaws.com
+  externalName: petclinic.ca06xcs734ge.us-east-1.rds.amazonaws.com  
